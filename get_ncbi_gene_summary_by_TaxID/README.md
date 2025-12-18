@@ -32,7 +32,7 @@ Many bioinformatics scripts for fetching NCBI data are written as "one-off" snip
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/get_ncbi_gene_summary_by_TaxID.git
+git clone https://github.com/houhaiyang/Tools.git
 cd get_ncbi_gene_summary_by_TaxID
 ```
 
